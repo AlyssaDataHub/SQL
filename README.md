@@ -9,7 +9,7 @@ SQL (Structured Query Language) is the backbone of data manipilation and managem
 
 ## Professional Application
 *  **Data Analytics**
-  - Extracting data
+  * Extracting data
   - Cleaning and transforming raw data
   - Analyzing data to uncover trends and insights
   - Generating reports 
