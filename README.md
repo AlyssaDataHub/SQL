@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="[SQL_bubble.png)](https://raw.githubusercontent.com/AlyssaDataHub/Assets/main/SQL_bubble.png
-)" alt="SQL Bubble" width="300">
+  <img src="SQL_bubble.png" alt="SQL Bubble" width="300">
 </p>
