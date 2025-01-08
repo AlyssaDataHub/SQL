@@ -1,3 +1,1 @@
-![SQL](https://github.com/user-attachments/assets/c6a633f3-30b8-4af0-bcbe-5c04469fdb86)
-
-
+![SQL bubble](https://github.com/user-attachments/assets/90e5806a-9847-41dd-bbd3-b3c0add13ce8)
