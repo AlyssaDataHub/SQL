@@ -1,2 +1,4 @@
-![SQL Banner](https://github.com/user-attachments/assets/fc3a2136-a9c5-49be-9275-0c4f8711adf1)
+![SQL Logo](![SQL](https://github.com/user-attachments/assets/af7fd8e8-4942-4118-997a-2b9714f03c29))
+
+
 
