@@ -1,4 +1,3 @@
-![SQL Logo](![SQL](https://github.com/user-attachments/assets/af7fd8e8-4942-4118-997a-2b9714f03c29))
 
 
-
+![SQL](https://github.com/user-attachments/assets/c6a633f3-30b8-4af0-bcbe-5c04469fdb86)
