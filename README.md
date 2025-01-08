@@ -16,7 +16,7 @@ SQL (Structured Query Language) is the backbone of data manipulation and managem
     
 ## What You'll Find Here
 * 📚 **Cheat Sheets**  
-  - A collection of building blocks and essential actions for tools like SQL, Python, Power BI, Excel, and more, designed to serve as a quick-reference dictionary for mastering each tool.  
+  - A Cheat Sheet that includes all of the basic SQL commands. This can be used when you're just beginning to learn all the basics or as a reference.  
 * 💻 **Projects**  
   - Practical examples and case studies showcasing real-world applications of data analytics and other data-related disciplines.  
 * 📎 **Resources**  
