@@ -2,17 +2,17 @@
   <img src="https://github.com/AlyssaDataHub/Assets/blob/128eee6597e85c7634cfa14cce283ded4f81885f/SQL_bubble.png" alt="SQL Bubble" width="300">
 </p>
 
- # Welcome to **The SQL Bubble**! 
+# Welcome to **The SQL Bubble**! 
 
- ## What is SQL?
-SQL (Structured Query Language) is the backbone of data manipilation and management. It is used across industries and data positions to query, clean and transform data. No matter where you plan on going in the data ecosystem, learning SQL is cruical to your success. 
+## What is SQL?
+SQL (Structured Query Language) is the backbone of data manipulation and management. It is used across industries and data positions to query, clean, and transform data. No matter where you plan on going in the data ecosystem, learning SQL is crucial to your success. 
 
 ## Professional Application
 * **Data Analytics**
   - Extracting data
   - Cleaning and transforming raw data
   - Analyzing data to uncover trends and insights
-  - Generating reports
+  - Preparing data for reports and dashboards
     
 ## What You'll Find Here
 * 📚 **Cheat Sheets**  
@@ -21,4 +21,3 @@ SQL (Structured Query Language) is the backbone of data manipilation and managem
   - Practical examples and case studies showcasing real-world applications of data analytics and other data-related disciplines.  
 * 📎 **Resources**  
   - A collection of links to videos, articles, and other materials that I found helpful throughout my learning journey, curated to support others in exploring and building their data skills.  
-
