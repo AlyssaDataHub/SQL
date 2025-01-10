@@ -29,7 +29,7 @@ The analysis uses six datasets provided by IBM, each containing specific details
 6. **Status_Analysis.csv**
    - **CustomerID**, **Satisfaction Score**, **Customer Status**, **Churn Label**, **Churn Value**, **Churn Score**.
 
-Datasets source: [IBM Telco Customer Churn Datasets](https://community.ibm.com/accelerators/?context=analytics&query=telco%20churn&type=Data&product=Cognos%20Analytics)
+Datasets source: [Kaggle](https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners)
 
 ## Project Goals
 
