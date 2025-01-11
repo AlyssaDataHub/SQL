@@ -1,4 +1,10 @@
-# Employee Performance Analysis
+<p align="center">
+ [image](https://github.com/user-attachments/assets/b727dcd4-b32d-4ba3-9177-7f43b215bb3d)>
+
+</p>
+
+# <p align="center">Welcome to ** Employee Performance Analysis**!</p>
+
 
 ## Overview
 This project focuses on analyzing employee performance using data sourced from Kaggle. The analysis is conducted exclusively using SQL, showcasing the power of structured query language for data analytics and insights generation.
