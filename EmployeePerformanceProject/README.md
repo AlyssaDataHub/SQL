@@ -31,7 +31,12 @@ The dataset includes the following features:
 - Identify key factors influencing employee performance.
 - Prepare SQL queries for data cleaning, transformation, and insight generation.
 - Share findings through organized reports and visualizations.
-
+- 
+## Repository Structure
+- **SQL_Code**: Here you will find
+    - **DataCleaning**: Scripts for cleaning and preparing the data.
+    - **Analysis**: SQL queries for deriving insights and generating reports.
+- **README.md**: Project overview and documentation.
 ---
 This project demonstrates the use of SQL as a primary tool for data analytics, emphasizing its efficiency and simplicity for structured data analysis.
 
