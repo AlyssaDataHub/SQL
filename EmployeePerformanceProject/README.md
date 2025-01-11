@@ -1,8 +1,7 @@
 <p align="center">
- ![image](https://github.com/user-attachments/assets/25b63710-f34d-4d6c-9c7a-ee20e33a8f1e)>
-
-
+  <img src="https://github.com/user-attachments/assets/25b63710-f34d-4d6c-9c7a-ee20e33a8f1e" alt="Employee Performance Illustration">
 </p>
+
 
 # <p align="center">Welcome to ** Employee Performance Analysis**!</p>
 
