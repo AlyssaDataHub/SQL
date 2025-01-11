@@ -1,1 +1,51 @@
+# Employee Performance Analysis
+
+## Overview
+This project focuses on analyzing employee performance using data sourced from Kaggle. The analysis is conducted exclusively using SQL, showcasing the power of structured query language for data analytics and insights generation.
+
+## Dataset Features
+The dataset includes the following features:
+
+- **employee_id**: Unique identifier for each employee.
+- **department**: Department the employee belongs to.
+- **region**: Region where the employee is located.
+- **education**: Employee's education level.
+- **gender**: Gender of the employee.
+- **recruitment_channel**: Channel through which the employee was recruited.
+- **no_of_trainings**: Number of training programs attended by the employee.
+- **age**: Age of the employee.
+- **previous_year_rating**: Performance rating from the previous year.
+- **length_of_service**: Years of service completed by the employee.
+- **KPIs_met_more_than_80**: Indicates if the employee met more than 80% of Key Performance Indicators.
+- **awards_won**: Indicates if the employee won any awards.
+- **avg_training_score**: Average score from training sessions.
+
+## Data Source
+[Employee Performance for HR Analytics](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics)
+
+## Tools Used
+- **SQL**: All data analysis and transformation tasks are performed exclusively using SQL.
+
+## Objectives
+- Perform exploratory data analysis (EDA) to understand employee trends and metrics.
+- Identify key factors influencing employee performance.
+- Prepare SQL queries for data cleaning, transformation, and insight generation.
+- Share findings through organized reports and visualizations.
+
+## Repository Structure
+- **`data/`**: Placeholder for raw dataset files.
+- **`sql/`**: Folder containing all SQL scripts used in the project.
+- **`README.md`**: Project overview and documentation.
+
+## Getting Started
+1. Download the dataset from the provided Kaggle link.
+2. Use the SQL scripts in the `sql/` folder to replicate the analysis and insights.
+
+## Planned Deliverables
+- Insights into employee performance based on key metrics.
+- SQL scripts for data transformation and analysis.
+- Recommendations for HR strategies based on data findings.
+
+---
+This project demonstrates the use of SQL as a primary tool for data analytics, emphasizing its efficiency and simplicity for structured data analysis.
 
