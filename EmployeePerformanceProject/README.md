@@ -32,20 +32,6 @@ The dataset includes the following features:
 - Prepare SQL queries for data cleaning, transformation, and insight generation.
 - Share findings through organized reports and visualizations.
 
-## Repository Structure
-- **`data/`**: Placeholder for raw dataset files.
-- **`sql/`**: Folder containing all SQL scripts used in the project.
-- **`README.md`**: Project overview and documentation.
-
-## Getting Started
-1. Download the dataset from the provided Kaggle link.
-2. Use the SQL scripts in the `sql/` folder to replicate the analysis and insights.
-
-## Planned Deliverables
-- Insights into employee performance based on key metrics.
-- SQL scripts for data transformation and analysis.
-- Recommendations for HR strategies based on data findings.
-
 ---
 This project demonstrates the use of SQL as a primary tool for data analytics, emphasizing its efficiency and simplicity for structured data analysis.
 
