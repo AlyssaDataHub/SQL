@@ -9,10 +9,7 @@ SQL (Structured Query Language) is the backbone of data manipulation and managem
 
 ## Professional Application
 * **Data Analytics**
-  - Extracting data
-  - Cleaning and transforming raw data
-  - Analyzing data to uncover trends and insights
-  - Preparing data for reports and dashboards
+  - SQL is used in data analytics to retrieve, clean, and manipulate large datasets stored in databases by writing queries that filter, aggregate, and organize data. Analysts use SQL to uncover insights, create reports, and prepare data for further analysis in tools like Excel, Python, or Power BI.
     
 ## What You'll Find Here
 * 📚 **Cheat Sheets**  
